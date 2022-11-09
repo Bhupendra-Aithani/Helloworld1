@@ -1,3 +1,3 @@
 <?php
 
-print "Hello World, This is USPage";
+print "Hello World, This is IndiaPage";
